@@ -16,10 +16,10 @@ The "Builds on" column shows each module's prerequisites. After Module 1 the cou
 | 4 | [Singing While Playing](./module-04-singing-while-playing/) | Crack the coordination problem - automate the hands so the voice can float on top | 1 | ✅ Written |
 | 5 | [The Campfire Set](./module-05-the-campfire-set/) | Play and sing 4 acoustic sing-alongs people can actually join in on | 4 | ✅ Written |
 | 6 | [The Family Band](./module-06-the-family-band/) | Arrange songs for guitar + drums duo, and run jam sessions a 9-year-old wants to come back to | 3 | ✅ Written |
-| 7 | [Capstone: Two Setlists](./module-07-capstone-two-setlists/) | Perform and record both sets - the living-room gig and the campfire | 5, 6 | 📝 Planned |
+| 7 | [Capstone: Two Setlists](./module-07-capstone-two-setlists/) | Perform and record both sets - the living-room gig and the campfire | 5, 6 | ✅ Written |
 
 > [!TIP]
-> Planned modules have their goals and candidate songs written up already - open one to see what's coming. When you reach it, ask Claude to *"write module N of the guitar course"*.
+> All seven modules are written - the two tracks run in parallel after module 1, so follow whichever pulls you and tick modules off below as you finish them.
 
 ## ✅ Progress
 
