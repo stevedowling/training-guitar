@@ -11,7 +11,7 @@ The "Builds on" column shows each module's prerequisites. After Module 1 the cou
 | # | Module | What you'll be able to do | Builds on | Status |
 |---|--------|---------------------------|-----------|--------|
 | 1 | [The Practice Reset](./module-01-the-practice-reset/) | Diagnose why songs never get finished, and install a practice system that finishes them | - | ✅ Written |
-| 2 | [First Full Songs](./module-02-first-full-songs/) | Play 3 riff-driven rock songs complete, start to finish, along with the recording | 1 | 📝 Planned |
+| 2 | [First Full Songs](./module-02-first-full-songs/) | Play 3 riff-driven rock songs complete, start to finish, along with the recording | 1 | ✅ Written |
 | 3 | [Rhythm Lock-in](./module-03-rhythm-lock-in/) | Keep time like a band member - count-ins, steady tempo, and playing with a live (beginner) drummer | 2 | 📝 Planned |
 | 4 | [Singing While Playing](./module-04-singing-while-playing/) | Crack the coordination problem - automate the hands so the voice can float on top | 1 | 📝 Planned |
 | 5 | [The Campfire Set](./module-05-the-campfire-set/) | Play and sing 4 acoustic sing-alongs people can actually join in on | 4 | 📝 Planned |
