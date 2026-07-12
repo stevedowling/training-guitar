@@ -1,30 +1,21 @@
 # Module 2 · First Full Songs
 
-> 📝 **Not written yet** - when you get here, ask Claude to *"write module 2 of the guitar course"*.
+> **You'll learn:** to finish songs - three riff-driven rock songs taken through the complete chunk/chain/perform cycle, with the stamina work fragments never forced and the maintenance habit that keeps finishes alive.
 
 **Builds on:** [Module 1 · The Practice Reset](../module-01-the-practice-reset/)
 
-## What you'll learn
+## Lessons
 
-- Take three riff-driven rock songs through the full chunk → chain → perform cycle - your first *finished* songs
-- Power chords and palm muting as song-length skills (stamina, consistency) rather than fragment skills
-- Play along with recordings start to finish, and record clean runs as proof
-- Feel the difference between knowing a riff and owning a song - and never confuse them again
+1. [Song One, finished](./01-song-one-finished.md) - the method run end to end, with Seven Nation Army as the worked example, ending in the finish ritual *(2-4 weeks of sessions)*
+2. [Power chord stamina](./02-power-chord-stamina.md) - Song Two as a workout: tension audits, interval building, and the downstroke question *(2-3 weeks)*
+3. [Song Three + the repertoire habit](./03-song-three-and-the-repertoire-habit.md) - the unsupervised finish, stop-start arrangements, and the weekly cold set *(2-3 weeks)*
 
-## Candidate songs (pick 3 - all famously drummer-friendly)
+Take them in order - each song adds one layer (method → stamina → independence), and the module ends with the maintenance system all future finishes plug into.
 
-- *Seven Nation Army* (The White Stripes) - you charted it in module 1; one riff, one chorus, iconic
-- *Come As You Are* (Nirvana) - clean riff + chorus power chords, moderate tempo
-- *Blitzkrieg Bop* (Ramones) - three power chords, pure stamina training, pure joy
-- *Should I Stay or Should I Go* (The Clash) - stop-start rhythm your drummer will love later
-- *TNT* (AC/DC) - the riff everyone knows, spacious and forgiving
+## When you're done
 
-## Planned lessons
-
-1. Song One, finished - the full method on the easiest pick
-2. Song Two: power chord stamina - the whole song is the workout
-3. Song Three + the repertoire habit - keeping finished songs alive
+Three songs finished - recorded, performed for someone, and maintained in a weekly cold set. The uncomfortable sentence from module 1's audit has an answer with a recent date on it. The electric track continues in [Module 3 · Rhythm Lock-in](../module-03-rhythm-lock-in/), where these songs meet the grid, and then the drummer.
 
 ---
 
-⬅️ [Module 1 · The Practice Reset](../module-01-the-practice-reset/) · 🏠 [Course home](../README.md)
+⬅️ [Module 1 · The Practice Reset](../module-01-the-practice-reset/) · 🏠 [Course home](../README.md) · ➡️ [Start: Song One, finished](./01-song-one-finished.md)
