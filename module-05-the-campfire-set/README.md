@@ -1,30 +1,21 @@
 # Module 5 · The Campfire Set
 
-> 📝 **Not written yet** - when you get here, ask Claude to *"write module 5 of the guitar course"*.
+> **You'll learn:** to design, finish, and *lead* a four-song acoustic sing-along set - keys matched to your voice with capo and numbers, arrangements that make one guitar enough, and the leader's moves that turn listeners into a choir.
 
 **Builds on:** [Module 4 · Singing While Playing](../module-04-singing-while-playing/)
 
-## What you'll learn
+## Lessons
 
-- Build a 4-song acoustic sing-along set, played and sung complete
-- Capo + the number system (module 1's deep dive) to move songs into singable keys on demand
-- Leading a sing-along: intros people recognise, tempos people can clap to, endings that land
-- Acoustic dynamics when the guitar is the whole band
+1. [Set building](./01-set-building.md) - the three gates, key cards, and a running order: the whole set designed before a note is learned *(an afternoon)*
+2. [The heart of the set](./02-the-heart-of-the-set.md) - opener and workhorse finished, plus the solo-acoustic arrangement kit *(~2 weeks)*
+3. [Leading the singing](./03-leading-the-singing.md) - peak and closer finished, and the cue/hold/land craft of actually leading *(~2 weeks)*
 
-## Candidate songs (pick 4 - chosen for chord simplicity + crowd singability)
+Take them in order - the design work in lesson 1 is what makes the learning in 2-3 cheap, and the leading layer only fits on finished songs.
 
-- *A Horse with No Name* (America) - two chords, the ultimate ladder song, likely carried in from module 4
-- *Knockin' on Heaven's Door* (Dylan) - four chords, everyone knows the chorus
-- *Three Little Birds* (Bob Marley) - three chords, kids sing it instantly
-- *Stand by Me* (Ben E. King) - the 1-6-4-5 progression that unlocks fifty other songs
-- *Wonderwall* (Oasis) - yes, the meme; there's a reason every campfire requests it
+## When you're done
 
-## Planned lessons
-
-1. Set building - choosing keys, capo positions, and a running order
-2. Songs 1-2: the two-and-three-chord heart of the set
-3. Songs 3-4 + leading the singing - the campfire as a performance
+Four songs, finished and field-tested on a family sing-along, in keys your voice owns, on a laminated card next to a capo and a spare pick. You can cue a chorus with your chin and hold tempo against a dragging crowd. All that's left between you and an actual fire is [Module 7](../module-07-capstone-two-setlists/) - and it mostly just books the gig.
 
 ---
 
-⬅️ [Module 4 · Singing While Playing](../module-04-singing-while-playing/) · 🏠 [Course home](../README.md)
+⬅️ [Module 4 · Singing While Playing](../module-04-singing-while-playing/) · 🏠 [Course home](../README.md) · ➡️ [Start: Set building](./01-set-building.md)

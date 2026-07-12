@@ -14,7 +14,7 @@ The "Builds on" column shows each module's prerequisites. After Module 1 the cou
 | 2 | [First Full Songs](./module-02-first-full-songs/) | Play 3 riff-driven rock songs complete, start to finish, along with the recording | 1 | ✅ Written |
 | 3 | [Rhythm Lock-in](./module-03-rhythm-lock-in/) | Keep time like a band member - count-ins, steady tempo, and playing with a live (beginner) drummer | 2 | ✅ Written |
 | 4 | [Singing While Playing](./module-04-singing-while-playing/) | Crack the coordination problem - automate the hands so the voice can float on top | 1 | ✅ Written |
-| 5 | [The Campfire Set](./module-05-the-campfire-set/) | Play and sing 4 acoustic sing-alongs people can actually join in on | 4 | 📝 Planned |
+| 5 | [The Campfire Set](./module-05-the-campfire-set/) | Play and sing 4 acoustic sing-alongs people can actually join in on | 4 | ✅ Written |
 | 6 | [The Family Band](./module-06-the-family-band/) | Arrange songs for guitar + drums duo, and run jam sessions a 9-year-old wants to come back to | 3 | 📝 Planned |
 | 7 | [Capstone: Two Setlists](./module-07-capstone-two-setlists/) | Perform and record both sets - the living-room gig and the campfire | 5, 6 | 📝 Planned |
 
